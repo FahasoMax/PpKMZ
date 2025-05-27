@@ -1,6 +1,6 @@
 # Information sur une chanson : tonalité, ...
 
-Coder avec RUST et les données sous JSON file.
+Codé avec RUST et les données sous JSON file.
 
 ## How to Run
 
