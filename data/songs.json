@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Imagine",
+        "artist": "John Lennon",
+        "album": "Imagine",
+        "year": 1971,
+        "genre": "Pop",
+        "duration_seconds": 183
+    },
+    {
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "album": "A Night at the Opera",
+        "year": 1975,
+        "genre": "Rock",
+        "duration_seconds": 354
+    }
+]
