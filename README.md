@@ -1,6 +1,6 @@
-# Song Info App
+# Information sur une chanson : tonalité, ...
 
-A simple Rust app to search for song information from a JSON file.
+Coder avec RUST et les données sous JSON file.
 
 ## How to Run
 
@@ -13,7 +13,6 @@ A simple Rust app to search for song information from a JSON file.
 4. Edit `data/songs.json` to add your own songs.
 
 ## Project Structure
-
 - `src/main.rs` – The main app logic and entry point.
 - `src/song.rs` – Song data model.
 - `src/search.rs` – Search functions for songs.
